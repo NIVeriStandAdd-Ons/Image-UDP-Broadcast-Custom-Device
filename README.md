@@ -12,7 +12,7 @@ No builds are available at this time.
 
 ### Quality, Limitations ###
 
-This IP was developed as a Proof-of-Concept (POC). Proper error handling and UI components such as an image workspace object to capture the UDP datagram should be added.
+This IP was developed as a Proof-of-Concept (POC). Proper error handling and UI components such as an image workspace object to capture the UDP datagram should be added. Currently a Receiver Test.vi is used to view the broadcasted image.
 
 ### Dependencies ###
 
