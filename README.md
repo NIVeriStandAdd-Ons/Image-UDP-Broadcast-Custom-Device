@@ -1,4 +1,4 @@
-## IP Name ##
+## Image UDP Broadcast Custom Device ##
 
 **Image UDP Broadcast Custom Device** provides the ability to broadcast an image acquired on the target via UDP. 
 
